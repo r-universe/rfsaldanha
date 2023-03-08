@@ -1,5 +1,9 @@
 [
   {
+    "package": "brclimr",
+    "oncran": true
+  },
+  {
     "package": "brpop",
     "oncran": true
   }
