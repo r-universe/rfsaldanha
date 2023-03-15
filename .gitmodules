@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "brclimr"]
-	path = brclimr
-	url = https://github.com/rfsaldanha/brclimr
-	shallow = true
-	registered = true
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/rfsaldanha/brpop
+	shallow = true
+	registered = true
+[submodule "brclimr"]
+	path = brclimr
+	url = https://github.com/rfsaldanha/brclimr
 	shallow = true
 	registered = true

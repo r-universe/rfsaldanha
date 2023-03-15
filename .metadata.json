@@ -1,10 +1,10 @@
 [
   {
-    "package": "brclimr",
+    "package": "brpop",
     "oncran": true
   },
   {
-    "package": "brpop",
+    "package": "brclimr",
     "oncran": true
   }
 ]
