@@ -8,3 +8,6 @@
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/rfsaldanha/brpop
+[submodule "tidyrates"]
+	path = tidyrates
+	url = https://github.com/rfsaldanha/tidyrates
