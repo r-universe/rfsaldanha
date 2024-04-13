@@ -11,3 +11,6 @@
 [submodule "tidyrates"]
 	path = tidyrates
 	url = https://github.com/rfsaldanha/tidyrates
+[submodule "zendown"]
+	path = zendown
+	url = https://github.com/rfsaldanha/zendown
