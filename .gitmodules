@@ -8,9 +8,15 @@
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/rfsaldanha/brpop
+[submodule "nseq"]
+	path = nseq
+	url = https://github.com/rfsaldanha/nseq
 [submodule "tidyrates"]
 	path = tidyrates
 	url = https://github.com/rfsaldanha/tidyrates
 [submodule "zendown"]
 	path = zendown
 	url = https://github.com/rfsaldanha/zendown
+[submodule "zenstats"]
+	path = zenstats
+	url = https://github.com/rfsaldanha/zenstats
