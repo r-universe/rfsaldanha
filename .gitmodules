@@ -8,6 +8,9 @@
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/rfsaldanha/brpop
+[submodule "microdatasus"]
+	path = microdatasus
+	url = https://github.com/rfsaldanha/microdatasus
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/rfsaldanha/nseq
