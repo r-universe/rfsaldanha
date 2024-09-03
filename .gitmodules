@@ -11,10 +11,6 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/rfsaldanha/nseq
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/danicat/read.dbc
-	registered = false
 [submodule "tidyrates"]
 	path = tidyrates
 	url = https://github.com/rfsaldanha/tidyrates
