@@ -5,9 +5,6 @@
 [submodule "brclimr"]
 	path = brclimr
 	url = https://github.com/rfsaldanha/brclimr
-[submodule "brpop"]
-	path = brpop
-	url = https://github.com/rfsaldanha/brpop
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/rfsaldanha/nseq
