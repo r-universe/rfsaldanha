@@ -20,6 +20,3 @@
 [submodule "zendown"]
 	path = zendown
 	url = https://github.com/rfsaldanha/zendown
-[submodule "zenstats"]
-	path = zenstats
-	url = https://github.com/rfsaldanha/zenstats
